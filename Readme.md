@@ -1,6 +1,6 @@
 # 📚 Projeto Animações com CSS e Grid
 
-![preview](./.github/preview.png)
+![preview](./.github/castles.png)
 
 [Acesse](https://prdsilva80.github.io/Projeto-05-Grid-/)
 
