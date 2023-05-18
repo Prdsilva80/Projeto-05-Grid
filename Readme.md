@@ -1,4 +1,4 @@
-# 📚 Projeto Animações com CSS e Grid
+# 📚 Project Animations with CSS and Grid
 
 ![preview](./.github/castles.png)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Tecnologias 
+## 🛠️ Technologies 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,17 +16,17 @@
 
 ---
 
-## 👨‍🎓 O que aprendi
+## 👨‍🎓 What I learned
 
-- Encaixando a imagem e sobrepondo o texto
-- Transições e transformações
-- Animações com o CSS
-- Versão desktop com CSS Grid
-- Usar filtros nas imagens com o CSS
-- Ajustando textos com o Css Clamp
+- Fitting the image and overlaying the text
+- Transitions and transformations
+- Animations with CSS
+- Desktop version with CSS Grid
+- Use filters on images with CSS
+- Tuning texts with Css Clamp
 
 ---
 
-## 📧 Contato
+## 📧 Contact
 
 <a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
